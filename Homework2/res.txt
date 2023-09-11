@@ -1,0 +1,799 @@
+PING atl.speedtest.clouvider.net (92.119.16.139): 29 data bytes
+37 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=124.203 ms
+37 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=733.548 ms
+37 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=124.896 ms
+37 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=119.365 ms
+37 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=122.949 ms
+37 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=119.271 ms
+37 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=122.717 ms
+37 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=120.411 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 119.271/198.420/733.548/202.269 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 58 data bytes
+66 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=121.995 ms
+Request timeout for icmp_seq 1
+66 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=1224.134 ms
+66 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=223.584 ms
+66 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=134.803 ms
+66 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=121.130 ms
+66 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=134.160 ms
+66 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=120.206 ms
+66 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=122.512 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 120.206/275.316/1224.134/360.085 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 87 data bytes
+95 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=118.374 ms
+95 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=125.060 ms
+95 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=119.493 ms
+95 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=395.520 ms
+95 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=119.659 ms
+95 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=983.885 ms
+95 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=138.154 ms
+95 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=118.743 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 118.374/264.861/983.885/286.071 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 116 data bytes
+124 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=142.268 ms
+124 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=119.282 ms
+124 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=121.247 ms
+124 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=125.320 ms
+124 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=120.956 ms
+124 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=119.608 ms
+124 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=120.027 ms
+124 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=119.573 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 119.282/123.535/142.268/7.310 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 145 data bytes
+153 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=132.190 ms
+153 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=118.703 ms
+153 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=121.544 ms
+153 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=119.436 ms
+153 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=122.161 ms
+153 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=120.051 ms
+153 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=134.450 ms
+153 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=126.132 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 118.703/124.333/134.450/5.633 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 174 data bytes
+182 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=119.897 ms
+182 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=127.499 ms
+182 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=124.191 ms
+182 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=118.894 ms
+182 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=122.050 ms
+182 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=149.779 ms
+182 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=119.164 ms
+182 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=130.650 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 118.894/126.515/149.779/9.621 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 203 data bytes
+211 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=194.254 ms
+211 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=127.996 ms
+211 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=120.557 ms
+211 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=121.551 ms
+211 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=141.812 ms
+211 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=122.903 ms
+211 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=121.333 ms
+211 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=205.204 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 120.557/144.451/205.204/32.679 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 232 data bytes
+240 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=119.538 ms
+240 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=122.534 ms
+240 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=131.974 ms
+240 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=120.153 ms
+240 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=993.877 ms
+240 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=809.820 ms
+240 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=705.450 ms
+240 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=125.071 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 119.538/391.052/993.877/352.613 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 261 data bytes
+269 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=121.504 ms
+269 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=838.160 ms
+Request timeout for icmp_seq 2
+269 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=1677.816 ms
+269 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=676.721 ms
+269 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=136.806 ms
+269 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=120.677 ms
+269 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=147.580 ms
+269 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=140.164 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 120.677/482.428/1677.816/524.774 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 290 data bytes
+298 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=120.770 ms
+298 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=127.469 ms
+298 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=194.733 ms
+298 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=993.819 ms
+298 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=907.602 ms
+298 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=126.073 ms
+298 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=648.737 ms
+298 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=369.364 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 120.770/436.071/993.819/341.338 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 319 data bytes
+327 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=119.402 ms
+327 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=120.983 ms
+327 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=120.859 ms
+327 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=129.477 ms
+327 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=126.899 ms
+327 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=121.239 ms
+327 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=120.736 ms
+327 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=122.652 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 119.402/122.781/129.477/3.292 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 348 data bytes
+356 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=124.079 ms
+356 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=120.547 ms
+356 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=753.535 ms
+356 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=891.970 ms
+Request timeout for icmp_seq 4
+356 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=1081.191 ms
+356 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=120.159 ms
+356 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=130.816 ms
+356 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=119.941 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 119.941/417.780/1081.191/389.221 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 377 data bytes
+385 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=119.646 ms
+385 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=141.805 ms
+385 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=121.357 ms
+385 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=148.405 ms
+385 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=126.427 ms
+385 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=122.573 ms
+385 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=166.708 ms
+385 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=120.223 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 119.646/133.393/166.708/16.120 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 406 data bytes
+414 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=118.966 ms
+414 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=127.240 ms
+414 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=126.092 ms
+Request timeout for icmp_seq 3
+414 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=1925.170 ms
+414 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=924.167 ms
+414 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=120.040 ms
+414 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=557.416 ms
+414 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=122.732 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 118.966/502.728/1925.170/604.660 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 435 data bytes
+443 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=120.050 ms
+443 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=127.611 ms
+443 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=690.581 ms
+443 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=507.310 ms
+443 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=121.552 ms
+443 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=121.166 ms
+443 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=774.853 ms
+443 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=491.740 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 120.050/369.358/774.853/261.061 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 464 data bytes
+472 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=119.445 ms
+472 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=125.230 ms
+472 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=124.630 ms
+472 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=217.405 ms
+472 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=132.721 ms
+Request timeout for icmp_seq 5
+472 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=1003.367 ms
+472 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=120.355 ms
+472 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=120.273 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 119.445/245.428/1003.367/288.136 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 493 data bytes
+501 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=120.695 ms
+501 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=120.134 ms
+501 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=868.815 ms
+501 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=127.067 ms
+501 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=119.990 ms
+501 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=122.090 ms
+501 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=756.636 ms
+501 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=119.741 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 119.741/294.396/868.815/300.577 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 522 data bytes
+530 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=125.047 ms
+530 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=121.198 ms
+530 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=127.859 ms
+530 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=122.457 ms
+530 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=123.202 ms
+530 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=120.813 ms
+530 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=120.536 ms
+530 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=607.780 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 120.536/183.611/607.780/160.337 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 551 data bytes
+559 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=135.211 ms
+559 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=154.179 ms
+559 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=127.855 ms
+559 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=120.615 ms
+559 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=654.536 ms
+559 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=573.414 ms
+559 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=489.412 ms
+559 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=264.306 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 120.615/314.941/654.536/207.981 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 580 data bytes
+Request timeout for icmp_seq 0
+Request timeout for icmp_seq 1
+588 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=2185.194 ms
+588 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=1182.411 ms
+588 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=193.303 ms
+588 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=120.341 ms
+588 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=1003.618 ms
+588 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=853.857 ms
+588 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=120.518 ms
+588 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=124.187 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 120.341/722.929/2185.194/690.134 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 609 data bytes
+617 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=130.872 ms
+617 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=779.135 ms
+617 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=253.627 ms
+617 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=150.408 ms
+617 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=763.370 ms
+617 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=121.884 ms
+617 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=129.135 ms
+617 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=122.605 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 121.884/306.379/779.135/271.449 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 638 data bytes
+646 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=133.381 ms
+646 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=447.539 ms
+646 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=122.371 ms
+646 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=121.396 ms
+646 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=177.840 ms
+646 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=167.978 ms
+646 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=132.861 ms
+646 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=121.917 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 121.396/178.160/447.539/103.817 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 667 data bytes
+675 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=163.260 ms
+675 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=142.905 ms
+675 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=176.762 ms
+675 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=125.770 ms
+675 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=124.534 ms
+675 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=120.166 ms
+675 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=168.586 ms
+675 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=1844.123 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 120.166/358.263/1844.123/561.969 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 696 data bytes
+704 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=130.599 ms
+704 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=314.293 ms
+704 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=121.082 ms
+704 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=121.489 ms
+704 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=121.284 ms
+704 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=121.245 ms
+704 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=124.944 ms
+704 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=126.495 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 121.082/147.679/314.293/63.054 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 725 data bytes
+733 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=126.056 ms
+733 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=122.177 ms
+733 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=159.742 ms
+733 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=121.292 ms
+733 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=122.533 ms
+733 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=819.503 ms
+733 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=544.929 ms
+733 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=120.931 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 120.931/267.145/819.503/249.571 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 754 data bytes
+762 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=838.368 ms
+762 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=444.651 ms
+762 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=121.524 ms
+762 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=125.150 ms
+762 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=122.923 ms
+762 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=120.460 ms
+762 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=122.433 ms
+762 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=121.557 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 120.460/252.133/838.368/245.414 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 783 data bytes
+791 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=122.385 ms
+791 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=122.731 ms
+791 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=194.241 ms
+791 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=152.371 ms
+791 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=123.106 ms
+791 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=125.282 ms
+791 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=120.942 ms
+791 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=123.184 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 120.942/135.530/194.241/24.217 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 812 data bytes
+820 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=127.427 ms
+820 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=124.582 ms
+820 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=147.793 ms
+820 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=120.771 ms
+820 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=125.018 ms
+820 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=126.562 ms
+820 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=127.116 ms
+820 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=771.994 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 120.771/208.908/771.994/212.963 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 841 data bytes
+849 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=792.755 ms
+849 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=864.601 ms
+849 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=697.193 ms
+Request timeout for icmp_seq 3
+849 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=1983.350 ms
+849 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=982.824 ms
+849 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=159.645 ms
+849 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=124.860 ms
+849 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=121.981 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 121.981/715.901/1983.350/582.831 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 870 data bytes
+878 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=122.363 ms
+878 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=508.349 ms
+878 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=121.755 ms
+878 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=752.506 ms
+878 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=675.041 ms
+878 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=884.819 ms
+878 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=123.774 ms
+878 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=136.737 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 121.755/415.668/884.819/305.132 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 899 data bytes
+907 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=124.857 ms
+907 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=195.608 ms
+907 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=667.039 ms
+Request timeout for icmp_seq 3
+907 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=1469.211 ms
+907 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=464.084 ms
+907 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=125.282 ms
+907 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=564.030 ms
+907 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=652.170 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 124.857/532.785/1469.211/412.465 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 928 data bytes
+936 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=276.622 ms
+936 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=126.182 ms
+936 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=131.328 ms
+936 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=755.776 ms
+936 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=632.623 ms
+936 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=524.706 ms
+936 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=158.593 ms
+936 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=752.259 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 126.182/419.761/755.776/259.293 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 957 data bytes
+965 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=125.800 ms
+965 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=124.643 ms
+965 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=125.382 ms
+965 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=124.065 ms
+965 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=126.352 ms
+Request timeout for icmp_seq 5
+965 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=1002.210 ms
+965 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=127.982 ms
+965 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=439.495 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 124.065/274.491/1002.210/293.606 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 986 data bytes
+994 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=392.314 ms
+994 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=161.431 ms
+994 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=123.193 ms
+994 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=127.532 ms
+994 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=123.721 ms
+994 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=123.602 ms
+994 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=124.278 ms
+994 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=331.416 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 123.193/188.436/392.314/101.988 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 1015 data bytes
+1023 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=908.614 ms
+1023 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=142.721 ms
+1023 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=122.629 ms
+1023 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=130.389 ms
+Request timeout for icmp_seq 4
+1023 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=1576.990 ms
+1023 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=573.529 ms
+1023 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=619.658 ms
+1023 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=149.849 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 122.629/528.047/1576.990/483.423 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 1044 data bytes
+1052 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=122.704 ms
+1052 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=127.452 ms
+1052 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=144.499 ms
+1052 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=123.721 ms
+1052 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=123.451 ms
+1052 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=123.853 ms
+1052 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=782.444 ms
+1052 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=152.778 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 122.704/212.613/782.444/215.637 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 1073 data bytes
+1081 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=125.777 ms
+1081 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=125.871 ms
+1081 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=125.472 ms
+1081 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=659.236 ms
+1081 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=752.567 ms
+1081 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=882.197 ms
+1081 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=127.610 ms
+1081 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=126.279 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 125.472/365.626/882.197/314.125 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 1102 data bytes
+1110 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=122.320 ms
+1110 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=123.292 ms
+1110 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=140.381 ms
+1110 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=125.831 ms
+1110 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=127.644 ms
+1110 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=128.346 ms
+1110 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=126.507 ms
+1110 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=123.476 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 122.320/127.225/140.381/5.368 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 1131 data bytes
+1139 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=123.045 ms
+1139 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=126.718 ms
+1139 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=129.522 ms
+1139 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=128.911 ms
+1139 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=129.842 ms
+1139 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=140.106 ms
+1139 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=211.354 ms
+1139 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=122.963 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 122.963/139.058/211.354/27.781 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 1160 data bytes
+1168 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=122.904 ms
+1168 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=121.957 ms
+1168 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=160.952 ms
+Request timeout for icmp_seq 3
+Request timeout for icmp_seq 4
+1168 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=2615.046 ms
+1168 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=1610.225 ms
+1168 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=605.526 ms
+1168 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=317.555 ms
+1168 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=168.689 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 121.957/715.357/2615.046/857.996 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 1189 data bytes
+1197 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=130.413 ms
+1197 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=299.417 ms
+1197 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=627.989 ms
+1197 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=125.383 ms
+1197 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=176.309 ms
+1197 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=122.589 ms
+1197 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=209.664 ms
+1197 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=135.021 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 122.589/228.348/627.989/161.210 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 1218 data bytes
+1226 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=132.079 ms
+1226 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=122.194 ms
+Request timeout for icmp_seq 2
+1226 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=1059.489 ms
+1226 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=157.670 ms
+1226 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=181.735 ms
+1226 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=122.652 ms
+1226 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=122.554 ms
+1226 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=125.536 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 122.194/252.989/1059.489/305.487 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 1247 data bytes
+1255 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=122.478 ms
+1255 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=122.332 ms
+1255 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=124.360 ms
+1255 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=125.766 ms
+1255 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=125.468 ms
+1255 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=124.544 ms
+1255 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=123.236 ms
+1255 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=125.377 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 122.332/124.195/125.766/1.273 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 1276 data bytes
+1284 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=123.655 ms
+1284 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=158.130 ms
+1284 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=125.343 ms
+1284 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=123.612 ms
+1284 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=133.951 ms
+1284 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=126.630 ms
+1284 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=122.834 ms
+1284 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=141.200 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 122.834/131.919/158.130/11.556 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 1305 data bytes
+1313 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=127.046 ms
+1313 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=125.025 ms
+Request timeout for icmp_seq 2
+1313 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=1111.135 ms
+1313 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=126.320 ms
+1313 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=124.161 ms
+1313 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=127.945 ms
+1313 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=125.445 ms
+1313 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=334.779 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 124.161/275.232/1111.135/323.251 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 1334 data bytes
+1342 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=124.226 ms
+1342 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=124.241 ms
+1342 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=233.246 ms
+1342 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=126.698 ms
+1342 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=135.720 ms
+1342 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=129.476 ms
+1342 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=172.929 ms
+1342 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=556.597 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 124.226/200.392/556.597/139.175 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 1363 data bytes
+1371 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=127.121 ms
+1371 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=123.997 ms
+1371 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=128.383 ms
+1371 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=145.453 ms
+1371 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=125.419 ms
+1371 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=140.963 ms
+1371 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=154.512 ms
+1371 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=155.357 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 123.997/137.651/155.357/12.260 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 1392 data bytes
+1400 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=206.894 ms
+1400 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=142.122 ms
+1400 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=126.581 ms
+1400 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=168.491 ms
+1400 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=155.310 ms
+1400 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=242.960 ms
+1400 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=130.855 ms
+1400 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=139.969 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 126.581/164.148/242.960/38.283 ms
+
+
+
+PING atl.speedtest.clouvider.net (92.119.16.139): 1421 data bytes
+1429 bytes from 92.119.16.139: icmp_seq=0 ttl=52 time=187.664 ms
+1429 bytes from 92.119.16.139: icmp_seq=1 ttl=52 time=131.722 ms
+1429 bytes from 92.119.16.139: icmp_seq=2 ttl=52 time=247.825 ms
+1429 bytes from 92.119.16.139: icmp_seq=3 ttl=52 time=130.117 ms
+1429 bytes from 92.119.16.139: icmp_seq=4 ttl=52 time=866.087 ms
+1429 bytes from 92.119.16.139: icmp_seq=5 ttl=52 time=824.888 ms
+1429 bytes from 92.119.16.139: icmp_seq=6 ttl=52 time=700.377 ms
+1429 bytes from 92.119.16.139: icmp_seq=7 ttl=52 time=556.564 ms
+
+--- atl.speedtest.clouvider.net ping statistics ---
+8 packets transmitted, 8 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 130.117/455.655/866.087/295.969 ms
+
+
+
